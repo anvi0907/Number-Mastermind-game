@@ -1,9 +1,9 @@
 # Number-Mastermind-game
 Number Mastermind is an interactive web game where players guess a unique 4-digit secret number within 10 attempts using logic and strategy
 
-# live Demo
+# live Demo 
+hilarious-bombolone-df3fd1.netlify.app 
 
-🔗 Play Now: hilarious-bombolone-df3fd1.netlify.app
 
 # 📸 Screenshots
 Home Screen
